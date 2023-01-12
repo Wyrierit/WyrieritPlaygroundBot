@@ -1,0 +1,1 @@
+tg_bot_token = "5946839201:AAFCxyRHVI6Yyp3zOVsJ0Eot9KEeCb_bPHg"
